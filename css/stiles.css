@@ -1,0 +1,56 @@
+body{
+    background-color: #E1EEDD;
+    margin: 0px;
+    text-align: center;
+}
+h3{font-family: 'Merriweather', serif;}
+h2{font-family: 'Montserrat', sans-serif;}
+.onvan{
+    margin-top: 250px;
+    font-family: 'Sacramento', cursive;
+}
+.bio{
+  /**  font-family: 'Merriweather', serif;**/
+  font-family: 'Montserrat', sans-serif
+}
+.top-cloud{
+    width: 250px;
+    position: absolute;
+    top: 30px;
+    right: 220px;
+
+}
+.bottom-cloud{
+    width: 250px;
+    position: absolute;
+    top: 250px;
+    left: 220px;
+}
+.mountain{
+    margin-top: 250px;
+    width: 650px;
+}
+.profilephoto{
+    margin-top: 20px;
+    width: 150px;
+}
+.skillConfectionary{
+    width: 150px;
+
+}
+.skilcooking{
+    width: 150px;
+
+}
+.Confectionary{
+    margin: 16px auto 16px ;
+    width: 70%;
+}
+.cooking{
+    margin: 16px auto 16px ;
+    width: 70%;
+}
+.finalname{
+    font-family: 'Montserrat', sans-serif
+
+}
